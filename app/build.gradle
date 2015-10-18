@@ -6,8 +6,8 @@ android {
 
 	defaultConfig {
 		applicationId "net.teknoraver.filebrowser"
-		minSdkVersion 10
-		targetSdkVersion 10
+		minSdkVersion 23
+		targetSdkVersion 23
 		versionCode 1
 		versionName "1.0"
 	}
