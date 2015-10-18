@@ -1,4 +1,4 @@
-package net.teknoraver.filebrowser;
+package net.teknoraver.filemanager;
 
 import android.app.Activity;
 import android.content.ComponentName;
